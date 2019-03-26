@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+
+nav ul{
+  list-style-type: none;
+}
+
+nav li{
+  display: inline-block;
+}
+
+nav{
+  border: black solid 1px;
+  position: fixed;
+}
